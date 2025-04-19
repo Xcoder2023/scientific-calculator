@@ -1,13 +1,11 @@
-
-
-###  Scientific Calculator App
+# Scientific Calculator App
 
 ```markdown
-#  Scientific Calculator App
+# Scientific Calculator App
 
 A powerful, advanced calculator that includes both basic and scientific functions. Built with **HTML**, **CSS**, and **JavaScript**, this app is fully responsive and offers additional features like theming and calculation history.
 
-##  Features
+## Features
 
 - Basic operations: `+`, `−`, `×`, `÷`
 - Scientific operations: `sin`, `cos`, `tan`, `log`, `√`, `π`, `^`, `e`, and more
@@ -17,7 +15,7 @@ A powerful, advanced calculator that includes both basic and scientific function
 - Keyboard support for digits and operators
 - Fully responsive across devices including smartwatches
 
-##  Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3 (CSS Grid & Flexbox)
@@ -30,7 +28,7 @@ Tested and optimized for:
 - Tablets and smartphones
 - Very small screens (e.g., smartwatches, 320px and below)
 
-##  How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
