@@ -1,35 +1,38 @@
-# Scientific Calculator App
+#  Scientific Calculator App
 
-```markdown
-# Scientific Calculator App
+A powerful, advanced calculator that includes both basic and scientific operations. Built with **HTML**, **CSS**, and **JavaScript**, this calculator is fully responsive and packed with helpful features.
 
-A powerful, advanced calculator that includes both basic and scientific functions. Built with **HTML**, **CSS**, and **JavaScript**, this app is fully responsive and offers additional features like theming and calculation history.
 
-## Features
 
-- Basic operations: `+`, `−`, `×`, `÷`
-- Scientific operations: `sin`, `cos`, `tan`, `log`, `√`, `π`, `^`, `e`, and more
-- Dark/Light theme toggle
-- Toggleable scientific panel
-- Calculation history panel
-- Keyboard support for digits and operators
-- Fully responsive across devices including smartwatches
+##  Features
 
-## Technologies Used
+-  Basic Operations: `+`, `−`, `×`, `÷`
+-  Scientific Functions: `sin`, `cos`, `tan`, `log`, `√`, `π`, `^`, `e`, and more
+-  Keyboard Support for Input
+-  Fully Responsive (Works on desktops, tablets, phones, and smartwatches!)
 
-- HTML5
-- CSS3 (CSS Grid & Flexbox)
-- JavaScript (Event handling, expression evaluation)
+---
 
-## Responsive Design
+##  Technologies Used
 
-Tested and optimized for:
-- Large desktop displays
-- Tablets and smartphones
-- Very small screens (e.g., smartwatches, 320px and below)
+- **HTML5** – Markup structure  
+- **CSS3** – Styling using Grid and Flexbox  
+- **JavaScript** – Functionality, events, logic evaluation  
 
-## How to Run
 
-1. Clone the repository:
+##  Responsive Design
+
+The app is built to adapt beautifully across various screen sizes:
+
+-  Desktops & Large Screens  
+-  Tablets & Smartphones  
+-  Smartwatches (240px–320px width tested)
+
+---
+
+##  How to Use
+
+1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/xcoder2023/scientific-calculator.git
